@@ -1,7 +1,7 @@
-# DecodeLabs Project 2: Data Classification Using AI 
+# Project 2: Data Classification Using AI
 
 ## 📌 Project Overview
-This project is part of the DecodeLabs Industrial Training Kit (Batch 2026). The goal of this project is to build a complete Supervised Machine Learning pipeline from scratch using the Input-Process-Output (IPO) framework. 
+This project is part of an Industrial Training Kit (Batch 2026). The goal of this project is to build a complete Supervised Machine Learning pipeline from scratch using the Input-Process-Output (IPO) framework. 
 
 It uses the **K-Nearest Neighbors (KNN)** algorithm to classify the species of Iris flowers based on physical measurements.
 
