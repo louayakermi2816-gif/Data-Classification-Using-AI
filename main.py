@@ -1,5 +1,5 @@
 # =============================================================================
-# PROJECT 2: Data Classification Using AI
+# Data Classification Using AI
 # Industrial Training Kit | Batch 2026
 # Algorithm: K-Nearest Neighbors (KNN) | Dataset: Iris Benchmark
 # =============================================================================

@@ -1,4 +1,4 @@
-# Project 2: Data Classification Using AI
+# Data Classification Using AI
 
 ## 📌 Project Overview
 This project is part of an Industrial Training Kit (Batch 2026). The goal of this project is to build a complete Supervised Machine Learning pipeline from scratch using the Input-Process-Output (IPO) framework. 
