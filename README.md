@@ -18,8 +18,8 @@ It uses the **K-Nearest Neighbors (KNN)** algorithm to classify the species of I
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-   cd REPO_NAME
+   git clone https://github.com/louayakermi2816-gif/Data-Classification-Using-AI.git
+   cd Data-Classification-Using-AI
    ```
 2. Create a virtual environment and install dependencies:
    ```bash
